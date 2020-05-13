@@ -12,6 +12,14 @@ Sesion 01 de GITHUB
 
 - Equipo 4 - Visualizacion Musical
 >integrante : Ma. Barbara Martinez Pacheco
+=======
+- Equipo 2 - tal
+> Integrantes: 
+
+- Equipo 4 - Visualizacion Musical
+>integrante : Ma. Barbara Martinez Pacheco
+>integrante : Lorenza Heredia
+>integrante: Mariano Illoldi
 
 > Profesor: Eduardo H Obieta
 ---------------------------------------
