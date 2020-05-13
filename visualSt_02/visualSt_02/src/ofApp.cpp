@@ -16,12 +16,18 @@ void ofApp::draw(){
 	ofDrawRectangle(0,0,100,100);
 
 	eduardo();
+    lorenza();
 }
 
 void ofApp::eduardo() {
 	ofSetColor(255, 0, 0);
 	ofFill();
 	ofDrawBitmapString("HOLA MUNDO", 300, 200);
+}
+
+void ofApp::lorenza() {
+    ofSetColor(400);
+    ofDrawRectangle(0,0,100,100);
 }
 
 //--------------------------------------------------------------
