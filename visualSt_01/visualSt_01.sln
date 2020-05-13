@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.1062
+VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "visualSt_01", "visualSt_01\visualSt_01.vcxproj", "{7FD42DF7-442E-479A-BA76-D0022F99702A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openFrameworksLib", "D:\code\of_v0.10.1_vs2017_release\libs\openFrameworksCompiled\project\vs\openFrameworksLib.vcxproj", "{5837595D-ACA9-485C-8E76-729040CE4B0B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "openFrameworksLib", "D:\of_v0.11.0_vs2017_release\of_v0.11.0_vs2017_release\libs\openFrameworksCompiled\project\vs\openFrameworksLib.vcxproj", "{5837595D-ACA9-485C-8E76-729040CE4B0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +36,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DE9A9149-A2FA-495B-81D8-58D85DF8DFCA}
+		SolutionGuid = {A5F567DD-663E-40DF-8B06-B32D11BC161E}
 	EndGlobalSection
 EndGlobal
