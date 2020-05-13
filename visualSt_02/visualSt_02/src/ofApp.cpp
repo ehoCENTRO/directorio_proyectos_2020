@@ -32,9 +32,9 @@ void ofApp::mariano() {
 }
 
 void ofApp::lorenza() {
-    ofSetColor(0,200,400);
+    ofSetColor(0,255,0);
     ofFill();
-    ofDrawBitmapString("BYE MUNDO",300,500);
+    ofDrawBitmapString("BYE MUNDO",300,300);
 }
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
