@@ -24,4 +24,5 @@ class ofApp : public ofBaseApp{
 		void eduardo();
 		void mariano();
         void lorenza();
+        void barbara();
 };

@@ -43,6 +43,14 @@ void ofApp::lorenza() {
     ofDrawBitmapString("BYE MUNDO",300,300);
 }
 
+void ofApp::barbara()  {
+    ofSetColor (250,50,100);
+    ofFill();
+    ofDrawBitmapString("luv",300,500);
+    
+    
+}
+
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 
