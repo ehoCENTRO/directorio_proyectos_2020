@@ -35,6 +35,14 @@ void ofApp::sergio() {
 	ofSetColor(100, 0, 180);
 	ofFill();
 	ofDrawBitmapString("Baguette", 300, 600);
+}
+
+void ofApp::lorenza() {
+    ofSetColor(0,200,400);
+    ofFill();
+    ofDrawBitmapString("BYE MUNDO",300,500);
+}
+
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 
