@@ -21,4 +21,7 @@ public:
     void dragEvent(ofDragInfo dragInfo);
     void gotMessage(ofMessage msg);
 
+	void eduardo();
+	void mariano();
+	void lorenza();
 };
