@@ -16,6 +16,7 @@ void ofApp::draw(){
 	ofDrawRectangle(0,0,100,100);
 
 	eduardo();
+	mariano();
 }
 
 void ofApp::eduardo() {
@@ -24,6 +25,11 @@ void ofApp::eduardo() {
 	ofDrawBitmapString("HOLA MUNDO", 300, 200);
 }
 
+void ofApp::mariano() {
+	ofSetColor(0, 180, 180);
+	ofFill();
+	ofDrawBitmapString("Aight", 300, 400);
+}
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 
