@@ -11,6 +11,8 @@
 *.xcconfig
 *.plist
 Makefile
+*.qbs
+*.user.*
 
 
 # User-specific files
