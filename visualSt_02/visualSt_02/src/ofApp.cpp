@@ -18,6 +18,8 @@ void ofApp::draw(){
 	eduardo();
 	mariano();
 	lorenza();
+    barbara();
+    
 }
 
 void ofApp::eduardo() {
