@@ -19,11 +19,11 @@ void ofApp::draw(){
 	mariano();
 	lorenza();
     barbara();
-    
+    ana();
 }
 
 void ofApp::eduardo() {
-	ofSetColor(255, 0, 0);
+	ofSetColor(255, 0, 0); 
 	ofFill();
 	ofDrawBitmapString("HOLA MUNDO", 300, 200);
 }
@@ -47,7 +47,11 @@ void ofApp::barbara()  {
     
     
 }
-
+  void ofApp::ana() {
+      ofSetColor(0, 200, 400);
+      ofFill();
+      ofDrawBitmapString("neyh", 300, 500);
+  }
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 

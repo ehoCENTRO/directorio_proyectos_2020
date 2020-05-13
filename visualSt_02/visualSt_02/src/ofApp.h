@@ -26,5 +26,5 @@ public:
 		void mariano();
         void lorenza();
         void barbara();
-
+        void ana(); 
 };
