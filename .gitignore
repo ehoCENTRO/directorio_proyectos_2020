@@ -13,6 +13,8 @@
 Makefile
 *.qbs
 *.user.*
+*.DS_Store
+Project.xcconfig
 
 
 # User-specific files
