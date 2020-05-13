@@ -30,6 +30,12 @@ void ofApp::mariano() {
 	ofFill();
 	ofDrawBitmapString("Aight", 300, 400);
 }
+
+void ofApp::lorenza() {
+    ofSetColor(0,200,400);
+    ofFill();
+    ofDrawBitmapString("BYE MUNDO",300,500);
+}
 //--------------------------------------------------------------
 void ofApp::keyPressed(int key){
 
