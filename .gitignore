@@ -7,6 +7,13 @@
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.user 
+*.xcodeproj
+*.xcconfig
+*.plist
+Makefile
+*.qbs
+*.user.*
+
 
 # User-specific files
 *.suo
