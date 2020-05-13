@@ -12,35 +12,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-	ofSetColor(255);
-	ofDrawRectangle(0,0,100,100);
 
-	eduardo();
-	mariano();
-}
-
-void ofApp::eduardo() {
-	ofSetColor(255, 0, 0);
-	ofFill();
-	ofDrawBitmapString("HOLA MUNDO", 300, 200);
-}
-
-void ofApp::mariano() {
-	ofSetColor(0, 180, 180);
-	ofFill();
-	ofDrawBitmapString("Aight", 300, 400);
-}
-
-void ofApp::sergio() {
-	ofSetColor(100, 0, 180);
-	ofFill();
-	ofDrawBitmapString("Baguette", 300, 600);
-}
-
-void ofApp::lorenza() {
-    ofSetColor(0,255,0);
-    ofFill();
-    ofDrawBitmapString("BYE MUNDO",300,300);
 }
 
 void ofApp::barbara()  {
@@ -102,6 +74,6 @@ void ofApp::gotMessage(ofMessage msg){
 }
 
 //--------------------------------------------------------------
-void ofApp::dragEvent(ofDragInfo dragInfo){ 
+void ofApp::dragEvent(ofDragInfo dragInfo){
 
 }

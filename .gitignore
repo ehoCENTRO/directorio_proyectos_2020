@@ -11,7 +11,11 @@
 *.xcconfig
 *.plist
 Makefile
-
+*.qbs
+*.user.*
+*.DS_Store
+Project.xcconfig
+*.lock
 
 # User-specific files
 *.suo
