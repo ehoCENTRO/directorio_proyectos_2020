@@ -14,6 +14,14 @@ void ofApp::update(){
 void ofApp::draw(){
 	ofSetColor(255);
 	ofDrawRectangle(0,0,100,100);
+
+	eduardo();
+}
+
+void ofApp::eduardo() {
+	ofSetColor(255, 0, 0);
+	ofFill();
+	ofDrawBitmapString("HOLA MUNDO", 300, 200);
 }
 
 //--------------------------------------------------------------
