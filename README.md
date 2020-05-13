@@ -16,6 +16,9 @@ Sesion 01 de GITHUB
 - Equipo 2 - tal
 > Integrantes: 
 
+- Equipo 3 - Bioluminiscencia
+> Integrantes: Ana Payró - Alejandra Mubieri
+
 - Equipo 4 - Visualizacion Musical
 >integrante : Ma. Barbara Martinez Pacheco
 >integrante : Lorenza Heredia
