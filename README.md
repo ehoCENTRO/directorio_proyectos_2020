@@ -1,8 +1,18 @@
+# Mi primer repositorio
 # repositorioPrueba
 Sesion 01 de GITHUB
 
-# Primer Repositorio
-Sesion 1 de GitHub
-#Proyectos
-Equipo 4
+=======
+# Proyectos
+- Equipo 1 - tal
+> Integrantes: 
+
+- Equipo 2 - tal
+> Integrantes: 
+
+- Equipo 4 - Visualizacion Musical
 >integrante : Ma. Barbara Martinez Pacheco
+
+> Profesor: Eduardo H Obieta
+---------------------------------------
+
