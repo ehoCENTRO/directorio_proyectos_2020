@@ -7,3 +7,7 @@ Sesion 01 de GITHUB
 > Integrantes: 
 
 - Equipo 2 - tal
+> Integrantes: 
+
+> Profesor: Eduardo H Obieta
+---------------------------------------
