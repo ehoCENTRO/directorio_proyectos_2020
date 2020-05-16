@@ -7,20 +7,20 @@ Sesion 01 de GITHUB
 - Equipo 1 - tal
 > Integrantes: 
 
+
 - Equipo 2 - Manga Interactivo
 > Integrantes: Manuel - Sergio
 
-- Equipo 4 - Visualizacion Musical
->integrante : Ma. Barbara Martinez Pacheco
-=======
 
 - Equipo 3 - Bioluminiscencia
 > Integrantes: Ana Payró - Alejandra Mubieri
 
+
 - Equipo 4 - Visualizacion Musical
->integrante : Ma. Barbara Martinez Pacheco
->integrante : Lorenza Heredia
->integrante: Mariano Illoldi
+> integrante : Ma. Barbara Martinez Pacheco
+> integrante : Lorenza Heredia
+> integrante : Mariano Illoldi
+
 
 > Profesor: Eduardo H Obieta
 ---------------------------------------
