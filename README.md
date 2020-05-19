@@ -1,6 +1,29 @@
 # Primer repositorio
 Sesion 01 de GITHUB
 
+---------------------------------------
+Requerimientos de entrega:
+- Aplicación interactiva.
+- Debe contener elementos 3d (cámara, navegación, gráficos, modelos 3d de otras plataformas)
+
+Qué debe contener la presentación:
+- CLIENTE / MARCA / A QUIEN VA DIRIGIDO SU PROYECTO
+- TIPO DE INTERACCION
+- CARACTERÍSTICAS DEL PROYECTO (de desarrollo)
+- ESPACIO IDEAL EN EL QUE EL PROYECTO SE PRESENTA (características físicas del espacio)
+
+1. Marca o cliente
+ - Museo
+ - Marca refrescos, dulces, zapatos....
+
+2. Interacción
+ - mouse, teclado, touch (un touch = un click de mouse --- multitouch)
+ - kinect, camara web + CV (computer vision), audio
+
+3. Presentación.
+ - Creatividad... 
+ ** Calidad, créditos (Nombres, nombre del cliente, materia, CENTRO)
+
 =======
 # Proyectos
 - Equipo 1 - tal
