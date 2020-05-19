@@ -23,26 +23,26 @@ Sesion 01 de GITHUB
 
   Manga Interactivo
  > Sistema de partículas
- Parallax
- UX 
- Computer Vision - eye tracking
- Diálogos 
- Audio de fondo / Efectos de sonido
+ > Parallax
+ > UX 
+ > Computer Vision - eye tracking
+ > Diálogos 
+ > Audio de fondo / Efectos de sonido
 
 Visualizador audio / Spotify
  > Instrumentos, beats
- Visuales
- UX - Controles. Tipos
+ > Visuales
+ > UX - Controles. Tipos
 
 Instalación interactiva de visuales interactivos 
  > Computer Vision - 
- Visuales - tracking de personas
- Audio base sin modificación 
+ > Visuales - tracking de personas
+ > Audio base sin modificación 
 
  Museo MORI _ Bioluminiscencia 
  > Espacio Lúdico 
- Intervención - 
- Cámara
+ > Intervención - 
+ > Cámara
 
 ##### Consideraciones:
 * NO HAY USUARIO
