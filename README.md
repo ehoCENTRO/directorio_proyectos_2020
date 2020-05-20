@@ -23,13 +23,13 @@ Qué debe contener la presentación:
  - kinect, camara web + CV (computer vision), audio
 
 3. Presentación.
- - Creatividad... 
+ - Creatividad...
  ** Calidad, créditos (Nombres, nombre del cliente, materia, CENTRO)
 
 =======
 # Proyectos
 - Equipo 1 - tal
-> Integrantes: 
+> Integrantes:
 
 - Equipo 2 - Manga Interactivo
 > Integrantes: Manuel - Sergio
@@ -37,7 +37,7 @@ Qué debe contener la presentación:
 - Equipo 3 - Bioluminiscencia
 > Integrantes: Ana Payró - Alejandra Mubieri
 
-- Equipo 4 - Visualizacion Musical
+- Equipo 4 - [Visualizacion Musical]
 > integrantes : Ma. Barbara Martinez Pacheco, Lorenza Heredia, Mariano Illoldi
 
 - Profesor: Eduardo H Obieta
@@ -49,9 +49,9 @@ Qué debe contener la presentación:
   Manga Interactivo
  > Sistema de partículas
  > Parallax
- > UX 
+ > UX
  > Computer Vision - eye tracking
- > Diálogos 
+ > Diálogos
  > Audio de fondo / Efectos de sonido
 
 Visualizador audio / Spotify
@@ -59,21 +59,22 @@ Visualizador audio / Spotify
  > Visuales
  > UX - Controles. Tipos
 
-Instalación interactiva de visuales interactivos 
- > Computer Vision - 
+Instalación interactiva de visuales interactivos
+ > Computer Vision -
  > Visuales - tracking de personas
- > Audio base sin modificación 
+ > Audio base sin modificación
 
- Museo MORI _ Bioluminiscencia 
- > Espacio Lúdico 
- > Intervención - 
+ Museo MORI _ Bioluminiscencia
+ > Espacio Lúdico
+ > Intervención -
  > Cámara
 
 ##### Consideraciones:
 * NO HAY USUARIO
-* HAY USUARIO 
+* HAY USUARIO
 * Interacción...
 * Panel de configuración
 * Créditos
 
 [CENTRO]: https://www3.centro.edu.mx/
+[Visualizacion Musical]: https://github.com/SnortingPixels/VisualizadorMusicalOpenFrameworks/
