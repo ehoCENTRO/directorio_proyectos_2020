@@ -1,6 +1,6 @@
 # Primer repositorio
 Sesion 01 de GITHUB
-
+[CENTRO] - es una institución de educación superior dedicada a la profesionalización de la creatividad
 ---------------------------------------
 Requerimientos de entrega:
 - Aplicación interactiva.
@@ -74,3 +74,4 @@ Instalación interactiva de visuales interactivos
 * Panel de configuración
 * Créditos
 
+[CENTRO]: https://www3.centro.edu.mx/
