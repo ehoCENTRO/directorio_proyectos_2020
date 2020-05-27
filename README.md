@@ -34,7 +34,7 @@ Qué debe contener la presentación:
 Jordi
 Sofía
 Celeste
-`` 
+```
 
 - Equipo 2 - Manga Interactivo
 > Integrantes: Manuel - Sergio
