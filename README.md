@@ -29,7 +29,12 @@ Qué debe contener la presentación:
 =======
 # Proyectos
 - Equipo 1 - tal
-> Integrantes:
+> Integrantes: 
+```sh 
+Jordi
+Sofía
+Celeste
+`` 
 
 - Equipo 2 - Manga Interactivo
 > Integrantes: Manuel - Sergio
